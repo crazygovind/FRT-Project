@@ -6,7 +6,7 @@ Govind Blogs(personal blogpage)
 I build this website using HTML,javascript,CSS and diployed using microsoft azure service Static web apps.
 This blogpage is made on my travelling blogs and show the destination images and my experience about the tours.
 Also recent comments, categories,archives and recent posts sections are added.
-My contact and imformation about me is given in given in it.
+My imformation and my contact imformation is given in it.
 
 
 
