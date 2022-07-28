@@ -9,6 +9,7 @@ Also recent comments, categories,archives and recent posts sections are added.
 My imformation and my contact imformation is given in it.
 
 The "Online Blogging System" has been developed to override the problems prevailing in the practicing manual system.
+It may help collecting perfect management in details. In a very short time, the collection will be obvious, simple and sensible. It will help a person to know the management of passed year perfectly and vividly.
 
 
 
