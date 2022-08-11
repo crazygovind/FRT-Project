@@ -2,14 +2,15 @@
 This is my Final FRT Project
 https://polite-smoke-03e914a10.1.azurestaticapps.net made with microsoft azure static web apps.
 
+video link URL https://youtu.be/s_zcwK6rSIE
+
 Govind Blogs(personal blogpage)
 I build this website using HTML,javascript,CSS and diployed using microsoft azure service Static web apps.
 This blogpage is made on my travelling blogs and show the destination images and my experience about the tours.
 Also recent comments, categories,archives and recent posts sections are added.
 My imformation and my contact imformation is given in it.
 
-The "Online Blogging System" has been developed to override the problems prevailing in the practicing manual system.
-It may help collecting perfect management in details. In a very short time, the collection will be obvious, simple and sensible. It will help a person to know the management of passed year perfectly and vividly.
+I have created a blog page website named 'Govind Blogs' using html, css, javascript. I have made three pages in it home page ,about page and contact page. These pages gives information about destination, about genuine experience and about the page owner. I have used static web apps as azure technology to deploy the website. And all the codes of website are uploaded at github.
 
 
 
