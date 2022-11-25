@@ -1,11 +1,11 @@
 # Final-FRT-Project
 This is my Final FRT Project
-https://polite-smoke-03e914a10.1.azurestaticapps.net made with microsoft azure static web apps.
+https://polite-smoke-03e914a10.1.azurestaticapps.net made with microsoft azure static web apps and azure healthbot.
 
 video link URL https://youtu.be/s_zcwK6rSIE
 
 Govind Blogs(personal blogpage)
-I build this website using HTML,javascript,CSS and diployed using microsoft azure service Static web apps.
+I build this website using HTML,javascript,CSS and diployed using microsoft azure service Static web apps and azure healthbot.
 This blogpage is made on my travelling blogs and show the destination images and my experience about the tours.
 Also recent comments, categories,archives and recent posts sections are added.
 My imformation and my contact imformation is given in it.
