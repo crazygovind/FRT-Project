@@ -1,6 +1,12 @@
 # Final-FRT-Project
 This is my Final FRT Project
-https://polite-smoke-03e914a10.1.azurestaticapps.net made with microsoft azure static web apps and azure healthbot.
+https://polite-smoke-03e914a10.1.azurestaticapps.net 
+
+video link URL https://youtu.be/s_zcwK6rSIE
+
+*AZURE TECHNOLOGIES USED:*
+- static web apps 
+- healthbot.
 
 video link URL https://youtu.be/s_zcwK6rSIE
 
