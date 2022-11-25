@@ -24,3 +24,7 @@ I have created a blog page website named 'Govind Blogs' using html, css, javascr
 ![Screenshot 2022-07-26 014210](https://user-images.githubusercontent.com/95979633/180866492-43396072-8c5f-40fd-9a06-c315040f14a0.jpg)
 
 ![healthbot screenshot](https://user-images.githubusercontent.com/95979633/203911561-7d954d0c-a17a-4c0b-8698-338bce07270b.jpg)
+
+![Govind blogs](https://user-images.githubusercontent.com/95979633/203913900-51a0cc50-8016-46c4-a4ca-5b6056eaa1ba.jpg)
+
+![Govind blogs 2](https://user-images.githubusercontent.com/95979633/203913928-5cfe0a05-eccd-42e8-ad26-2980e670a2c1.jpg)
