@@ -8,7 +8,6 @@ video link URL https://youtu.be/s_zcwK6rSIE
 - static web apps 
 - healthbot.
 
-video link URL https://youtu.be/s_zcwK6rSIE
 
 Govind Blogs(personal blogpage)
 I build this website using HTML,javascript,CSS and diployed using microsoft azure service Static web apps and used azure healthbot.
